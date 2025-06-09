@@ -14,7 +14,9 @@ Goal: Predict the selling price of mobile phones based on their features.
 
 # Files
 notebook.ipynb – Main Jupyter/Colab notebook with all code and analysis
+
 README.md – Project description (this file)
+
 data.csv – (Not included) Example dataset structure
 
 # Author
